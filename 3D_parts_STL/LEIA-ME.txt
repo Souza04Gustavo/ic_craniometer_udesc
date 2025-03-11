@@ -1,0 +1,3 @@
+Nessa pasta estão os modelos STL que foram retirados do Inventor 2024 e impressos utilizando o fatiador Ultimaker Cura 5.7.1
+
+Os nomes das peças são autointerpretativos e a classicação "V1" se refere a primeira versão do equipamento que foi desenvolvida no final de 2024 por Gustavo de Souza e Grasiela, já a "V2" foi iniciada pelo bolsista Gustavo e continuada por Pedro Henrique no inicio de 2025.

@@ -1,0 +1,4 @@
+Todos os códigos desta pasta servem apenas como testes para verificar se o esp e os componentes estão operando normalmente.
+
+Obs: O código "teste_mpu6050_server" é oriundo do site: https://RandomNerdTutorials.com/esp32-mpu-6050-web-server/
+-> Com esse código o esp32 cria um web server e nele exibe em 3D a rotação do equipamento, apesar de ser muito interessante, atualmente não há muita necessidade de uso de um aplicação como essa mas vale a pena deixar registrado para futuras implementações.
